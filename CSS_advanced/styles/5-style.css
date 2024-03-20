@@ -16,7 +16,7 @@
 
 html {
     scroll-behavior: smooth;
-    font: var(--font-size-medium);
+    font-size: 62.5%;
 }
 
 body {
