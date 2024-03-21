@@ -58,11 +58,7 @@
     box-sizing: border-box;
 }
 
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
+
 
 html {
     scroll-behavior: smooth;
@@ -206,4 +202,10 @@ ul.row {
 
 .footer ul {
     text-align: right;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
